@@ -1,6 +1,8 @@
 # xorbx
 A cyber security app.
 
+
+
 ## Sign In
 Overall Purpose: This page allows existing users to log in to their "X'orbx" accounts.
 
@@ -32,7 +34,9 @@ The "Forgot Password?" link is highlighted in red.
 Overall, the "Sign In" page is well-designed and provides a user-friendly experience for existing users to log in to their accounts on the "X'orbx" service.
 
 
-### Sign Up
+
+
+## Sign Up
 Overall Purpose: This page allows new users to create an account with the "X'orbx" service.
 
 Main Sections:
@@ -67,6 +71,8 @@ The "Continue with Google" and "Continue with Apple" buttons are visually distin
 The password fields are masked for security.
 The "Terms and Privacy Policy" link is highlighted in red.
 Overall, the "Sign Up" page is well-designed and provides a user-friendly experience for new users to create accounts on the "X'orbx" service.
+
+
 
 
 ## Multi-Factor Authentication
@@ -104,6 +110,11 @@ Clear instructions and labels are provided for each option.
 The buttons for each authentication method are visually distinct.
 The page layout is organized and easy to navigate.
 Overall, the "Multi-Factor Authentication" page is well-designed and provides a user-friendly experience for users to select their desired biometric authentication methods for enhanced security.
+
+
+
+
+
 
 
 
