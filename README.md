@@ -168,6 +168,60 @@ Overall, the "Cyber Security" dashboard is a comprehensive tool that provides us
 
 ![Cyber Security Dashboard](https://github.com/user-attachments/assets/5f85fd19-b4c7-43ee-b9fb-6f2473e1b159)
 
+## Dashboard Sidebar
+Overall Purpose: This page allows users to manage various aspects of their "X'orbx" account and app settings.
+
+Main Sections:
+
+Overview:
+
+Security Alerts: (No description provided)
+Legal:
+Copyright Policy: View the app's copyright information.
+Terms & Conditions: View the app's terms of use.
+Privacy Policy: View the app's privacy policy.
+General Settings:
+
+Language Preference:
+Arabic: Select Arabic as the language.
+English: Select English as the language.
+Account Information:
+
+Email address: View or edit the user's email address.
+Username: View or edit the user's username.
+Profile picture: View or change the user's profile picture.
+Privacy Settings:
+
+Password Management: Manage password settings (e.g., change password, enable two-factor authentication).
+Biometric Security: Enable or disable biometric authentication methods (e.g., fingerprint, face recognition).
+Device Management: Manage device-related settings (e.g., remote wipe, find my device).
+Data Management:
+
+Backup & Sync: Manage data backup and synchronization settings.
+Data Usage: View data usage information.
+Clear Cache/Data: Clear app cache and data.
+Subscription Information:
+
+Account Management: Manage subscription settings (e.g., cancel, upgrade).
+Payment Methods: Manage payment methods used for subscriptions.
+Support & Feedback:
+
+Help & Support: Access help resources and contact support.
+Send Feedback: Provide feedback to the app developers.
+App Version Info: View the current app version and version history.
+Logout: Log out of the current account.
+
+Additional Notes:
+
+The page design is visually appealing with a dark background and contrasting colors.
+The "X'orbx" logo is prominently displayed at the top.
+Sections are organized with clear
+ headings and subheadings.
+Arrows indicate expandable sections.
+The overall layout is organized and easy to navigate.
+Overall, the "Settings" page provides a comprehensive and user-friendly interface for users to manage various aspects of their "X'orbx" account and app settings.
+
+![Sidebar Screen](https://github.com/user-attachments/assets/bab88ff7-3f1a-4f0d-b1c8-cae378b911f3)
 
 
 ## Starting resources
