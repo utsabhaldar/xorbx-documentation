@@ -113,11 +113,59 @@ Overall, the "Multi-Factor Authentication" page is well-designed and provides a 
 
 
 
+## Cyber Security
+Overall Purpose: This dashboard provides a centralized view of various cyber security measures and their performance.
+
+Main Sections:
+
+Top Bar:
+
+Menu Button: Accesses a navigation menu (not visible in the image).
+Title: "Cyber Security" - clearly identifies the dashboard.
+Search Bar: Enables users to search for specific information within the dashboard.
+Notification Bell: Indicates if there are any important alerts or notifications.
+Profile Icon: Allows access to user settings and preferences.
+Dashboard Sections:
+
+Real-Time Threat Detection:
+View Threat Report: Button to access a detailed report of real-time threats.
+Chart: Likely displays a visual representation of threat detections over time or by type.
+App Permission Checker:
+View Permissions: Button to view the permissions granted to different applications.
+Chart: Possibly shows the number of apps with different permission levels.
+Network Security Alerts:
+View All Alerts: Button to view a list of all network security alerts.
+Chart: Might display the frequency or severity of network security alerts.
+Phishing Detection:
+View Phishing Analysis: Button to access detailed analysis of phishing attempts.
+Chart: Potentially shows the number of phishing attempts detected over time.
+Compromised Passwords:
+View Password List: Button to view a list of compromised passwords.
+Chart: Could display the number of compromised passwords detected or the risk level of different passwords.
+Device Health Monitoring:
+View Detailed View: Button to view detailed information about device health.
+Chart: Possibly shows a pie chart representing the overall device health status.
+User Behavior Analytics:
+View Detailed View: Button to view detailed user behavior analytics.
+Chart: Might display user activity patterns, anomalies, or potential risks.
+Custom Threat Feeds:
+View All Threat Feeds: Button to view a list of custom threat feeds.
+Chart: Could show the number of threats detected from different custom feeds.
+Training Programs:
+View All Trainings: Button to view a list of available security training programs.
+Chart: Might display the completion rate or effectiveness of training programs.
+Additional Notes:
+
+The dashboard design is visually appealing with a dark background and contrasting colors.
+The use of charts and graphs makes data easily digestible.
+Clear labels and titles are provided for each section.
+Buttons are visually distinct and encourage user interaction.
+The overall layout is organized and easy to navigate.
+Overall, the "Cyber Security" dashboard is a comprehensive tool that provides users with a clear overview of their security posture and allows them to take necessary actions to improve their security.
 
 
 
-
-
+## Starting resources
 A few resources to get you started:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
