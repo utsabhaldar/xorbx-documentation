@@ -165,6 +165,7 @@ Clear labels and titles are provided for each section.
 Buttons are visually distinct and encourage user interaction.
 The overall layout is organized and easy to navigate.
 Overall, the "Cyber Security" dashboard is a comprehensive tool that provides users with a clear overview of their security posture and allows them to take necessary actions to improve their security.
+
 ![Cyber Security Dashboard](https://github.com/user-attachments/assets/5f85fd19-b4c7-43ee-b9fb-6f2473e1b159)
 
 
