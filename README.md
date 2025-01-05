@@ -33,6 +33,7 @@ The password field is masked for security.
 The "Forgot Password?" link is highlighted in red.
 Overall, the "Sign In" page is well-designed and provides a user-friendly experience for existing users to log in to their accounts on the "X'orbx" service.
 
+![Sign In](https://github.com/user-attachments/assets/04a1a530-17cd-4499-a08f-e8cb994f244d)
 
 
 
@@ -73,6 +74,7 @@ The "Terms and Privacy Policy" link is highlighted in red.
 Overall, the "Sign Up" page is well-designed and provides a user-friendly experience for new users to create accounts on the "X'orbx" service.
 
 
+![Sign Up](https://github.com/user-attachments/assets/a6d9a595-e3dc-408d-83fe-65d448b21aed)
 
 
 ## Multi-Factor Authentication
@@ -110,10 +112,11 @@ Clear instructions and labels are provided for each option.
 The buttons for each authentication method are visually distinct.
 The page layout is organized and easy to navigate.
 Overall, the "Multi-Factor Authentication" page is well-designed and provides a user-friendly experience for users to select their desired biometric authentication methods for enhanced security.
+![Multi-Factor Authentication Screen](https://github.com/user-attachments/assets/19b5aa12-6d3d-42c2-9dea-3739f551add2)
 
 
 
-## Cyber Security
+## Cyber Security Dashboard
 Overall Purpose: This dashboard provides a centralized view of various cyber security measures and their performance.
 
 Main Sections:
@@ -162,6 +165,7 @@ Clear labels and titles are provided for each section.
 Buttons are visually distinct and encourage user interaction.
 The overall layout is organized and easy to navigate.
 Overall, the "Cyber Security" dashboard is a comprehensive tool that provides users with a clear overview of their security posture and allows them to take necessary actions to improve their security.
+![Cyber Security Dashboard](https://github.com/user-attachments/assets/5f85fd19-b4c7-43ee-b9fb-6f2473e1b159)
 
 
 
