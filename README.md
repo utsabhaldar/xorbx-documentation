@@ -1,9 +1,7 @@
 # xorbx
 A cyber security app.
 
-## Getting Started
-
-### Sign In
+## Sign In
 Overall Purpose: This page allows existing users to log in to their "X'orbx" accounts.
 
 Main Sections:
@@ -71,7 +69,7 @@ The "Terms and Privacy Policy" link is highlighted in red.
 Overall, the "Sign Up" page is well-designed and provides a user-friendly experience for new users to create accounts on the "X'orbx" service.
 
 
-###Multi-Factor Authentication
+## Multi-Factor Authentication
 
 Overall Purpose: This page allows users to select one or more biometric authentication methods for enhanced security.
 
